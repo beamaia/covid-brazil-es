@@ -14,7 +14,7 @@ An analysis on the covid cases in the state of Espírito Santo in Brazil. A mini
 
 In order to run this project, you need to download packages in the requirements.txt file. It also uses functions from my scraper utils package, you can download it from [this repository](https://github.com/beamaia/scraper_utils). 
 
-## :bar-chart: Data 
+## :bar_chart: Data 
 
 COVID-19 cases in the state of Espírito Santo ,updated regularly at 17:00 (GMT -3:00). The data dictionary can be found in this [link](https://bi.s3.es.gov.br/imunizacao/Dicion%C3%A1rio%20de%20Dados.pdf). There are over 3 mi cases, starting from 2020. There are 45 attributes (columns) in the csv file, some of which were added later on. 
 
